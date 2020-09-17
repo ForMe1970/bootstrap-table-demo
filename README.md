@@ -1,2 +1,2 @@
 # bootstrap-table-demo
-bootstrap-table框架的Demo
+使用bootstrap-table开发的CMS系统
